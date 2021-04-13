@@ -11,8 +11,8 @@ An autonomous vehicle or self-driving car is a vehicle that must be able to navi
 
 ### Objectives / Deliverables
 
-- **Vehicle classification** [Jupyter notebook](https://github.com/pepsm/machine-learning/blob/master/algos/Classification/ImageClassification.ipynb) 
-- **Traffic Sign classification** 
+- **Vehicles classification** [Jupyter notebook](https://github.com/pepsm/Comma/VehiclesClassification.ipynb) 
+- **Traffic Signs classification** 
 - **Car detection** [Carla](https://github.com/affinis-lab/car-detection-module)
 - **Lane detection**
 - **Enviroment segmentation** [U-Net](https://github.com/henyau/Image-Segmentation-with-Unet)
