@@ -11,7 +11,7 @@ An autonomous vehicle or self-driving car is a vehicle that must be able to navi
 
 ### Objectives / Deliverables
 
-- **Vehicles classification** [Jupyter notebook](https://github.com/pepsm/Comma/VehiclesClassification.ipynb) 
+- **Vehicles classification** [Jupyter notebook](https://github.com/pepsm/Comma/blob/master/VehiclesClassification.ipynb) 
 - **Traffic Signs classification** 
 - **Car detection** [Carla](https://github.com/affinis-lab/car-detection-module)
 - **Lane detection**
@@ -24,9 +24,9 @@ An autonomous vehicle or self-driving car is a vehicle that must be able to navi
   - **Classification** It is the identification of the “class”, i.e. the category to which an image belongs. An image can have only one class.  
   - **Tagging** It is also a classification task but with a higher degree of accuracy. It can recognize the presence of several concepts or objects within an image.   One or more tags can therefore be assigned to a particular image.  
   - **Detection** This is necessary when you want to locate an object in an image. Once the object is located, a bounding box is placed around the object in question. 
-  - **Segmentation** This is also a detection task. Segmentation can locate an element on an image to the nearest pixel. For some cases, it is necessary to be extremely precise, as for the development of autonomous cars. [[dataset]](https://github.com/DanielHfnr/Carla-Object-Detection-Dataset)
-
+  - **Segmentation** This is also a detection task. Segmentation can locate an element on an image to the nearest pixel. For some cases, it is necessary to be extremely precise, as for the development of autonomous cars. 
  
  **Datasets :** 
- [[TU Simple]](https://paperswithcode.com/dataset/tusimple), [[CULane]](https://paperswithcode.com/dataset/culane)
+ [[TU Simple]](https://paperswithcode.com/dataset/tusimple), [[CULane]](https://paperswithcode.com/dataset/culane), [[CARLA]](https://github.com/DanielHfnr/Carla-Object-Detection-Dataset)
+
 
