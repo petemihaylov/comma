@@ -15,7 +15,7 @@ An autonomous vehicle or self-driving car is a vehicle that must be able to navi
 - **Traffic Signs classification** 
 - **Car detection** [Carla](https://github.com/affinis-lab/car-detection-module)
 - **Lane detection**
-- **Enviroment segmentation** [U-Net](https://github.com/henyau/Image-Segmentation-with-Unet)
+- **Environment segmentation** [U-Net](https://github.com/henyau/Image-Segmentation-with-Unet)
 - **Traffic Sign Detection** 
 - **Reinforcement learning** [[idea]](https://github.com/carla-simulator/reinforcement-learning)
  
